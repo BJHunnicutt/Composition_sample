@@ -19,8 +19,8 @@ class CanadianPerson
 end
 
 # Create Instance Variables
-frenchie = FrenchPerson.new
-frenchie.speak("Bonjour")
+french = FrenchPerson.new
+french.speak("Bonjour")
 
 canadian = CanadianPerson.new()
 canadian.speak("Good Morning eh")
